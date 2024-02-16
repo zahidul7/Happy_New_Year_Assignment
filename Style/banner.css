@@ -1,0 +1,20 @@
+
+.banner-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .banner-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: rgb(246, 246, 243);
+    transform: translate(-50%, -50%);
+    font-weight: 800; 
+    font-size: 40px;
+  }
+  
+  .categories{
+    padding-top: 70px;
+    text-align: center;
+  }

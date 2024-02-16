@@ -1,0 +1,15 @@
+.midnight-party-container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .midnight-text {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    display: flex;
+  }
+  .midnight-party-container-text{
+    padding-left: 30px;
+    padding-top: 100px;
+  }

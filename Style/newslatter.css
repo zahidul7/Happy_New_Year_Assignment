@@ -1,0 +1,20 @@
+.newslatter{
+    text-align: center;
+    margin: 80px;
+    padding: 40px;
+    background-color: rgba(74, 21, 171, 0.107);
+}
+.input{
+    padding: 10px;
+}
+.btn {
+    background-color: #e80606; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:4px;
+  }
